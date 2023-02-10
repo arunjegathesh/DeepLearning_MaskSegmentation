@@ -7,4 +7,4 @@ Aerial post-flood maps can provide localized insight into the extent of flood-re
 
 In this challenge, we will be competing to develop an accurate dense segmentation model for aerial post-flood aerial imagery. We will work to identify property attributes in the Houston area following Hurricane Harvey in an effort to autonomously generate a post-flood map. We will leverage the provided drone image dataset in order to train segmentation models to better understand ground conditions after Hurricanes. Our goal is to accurately identify and segment common large and small assets in residential Houston after Hurricane Harvey that may or may not be damaged by Hurricane Harvey.
 
-Architecture - DeepLabv3+ (pretrained)
+Architecture - ResNet-Unet (pretrained)
